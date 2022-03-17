@@ -1,0 +1,185 @@
+body {
+   background-color:   #E5E5E5;
+   box-sizing: border-box;
+}
+
+.major-box {
+    width: 938px;
+    height: 580px;
+    margin: 0px;
+    position: relative;
+    margin-top: 109px;
+    margin-left: 251px;
+    background-color: #EFEFEF;
+    border-radius: 10px;
+}
+
+.container-logo {
+    position: relative;
+    background-color: #9758A6;
+    position: relative;
+    width: 469px;
+    height: 580px;
+    border-radius: 10px;   
+    margin-top: 109px;
+    
+}
+
+.box-burgerr {
+    padding-top: 190px;
+    padding-left: 114px;
+}
+
+.p-burgerr {
+    font-size: 90px;
+    color: white;
+    position: absolute;
+    margin: 0px;
+    font-family: 'Playball', cursive;
+    margin-bottom: 10px;
+}
+
+.box-logo {
+    padding-top: 86px;
+    padding-left: 207px;
+}
+
+.p-logo {
+    font-size: 90px;
+    color: white;
+    position: absolute;
+    margin: 0px;
+    font-family: 'Playball', cursive;
+}
+
+.imglogo {
+    padding-left: 89px;
+    padding-top: 15px;
+    width: 114px;
+    height: 85px;
+}
+.container-text {
+    position: absolute;
+    background-color: #EFEFEF;
+    height: 100px;
+    width: 100px;
+    margin-left: 470px;
+    padding-right: 366px;
+    padding-bottom: 478px; 
+    padding-left: 59px;
+    border-radius: 10px;   
+}
+
+#login {
+    position: absolute;
+    margin-top: 90px;    
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 54px;
+    color: #575757;
+    margin-bottom: 8px;
+}
+
+#welcome {
+    position: absolute;
+    margin-top: 148px;    
+    color: #575757;
+    width: 113px;
+    height: 21px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.box-login {
+    position: absolute;
+    margin-top: 215px;
+    
+}
+
+.label {
+    color: #8F8F8F;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+}
+.input-login {
+    position: absolute;
+    width: 349px;
+    height: 35px;
+    box-shadow: 3px 3px 10px rgba(74, 144, 226, 0.19);
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    border: none;
+}
+
+#box-password {
+    position: absolute;
+    margin-top: 284px;  
+}
+
+.checkbox-remember {
+    position: absolute;
+    margin-top: 374px; 
+}
+
+#label-remember {
+    font-size: 10px;
+    line-height: 15px;
+    font-family: 'Poppins', sans-serif;    
+}
+#remember {
+    vertical-align: middle;
+    position: relative;
+    top: -1px;
+}
+
+.box-button {
+    position: absolute;
+    margin-top: 413px;
+    
+}
+
+#button {
+    background-color: #9758A6;
+    width: 163px;
+    height: 33px;
+    border-radius: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    outline: none;
+    cursor: pointer;
+    border: none;
+}
+
+.p-account {
+    position: absolute;
+    margin-top: 470px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+}
+
+.p-signup {
+    position: absolute;
+    margin-top: 470px;
+    margin-left: 284px;
+    
+}
+
+.p-link {
+    
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #0091FF;
+}
